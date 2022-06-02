@@ -50,6 +50,15 @@ export const ORTHOGRAPHY = [
   "'y",
   "'",
   '?',
+  'c',
+  'd',
+  'e',
+  'f',
+  'g',
+  'q',
+  'r',
+  'v',
+  'z',
 ]
 
 if (CONFIG.normalization) {
