@@ -1,15 +1,12 @@
 import { CONFIG } from './config'
 
 export const WORDS = [
-  'li sayd',
+  'lisayd',
   'timiiw',
-  'latonṉ',
+  'latonn',
   'faamii',
   'mazhii',
-  'enn sel',
-  'raar',
-  'oobor',
-  'awihi',
+  'ennsel',
   'koover',
 ]
 
