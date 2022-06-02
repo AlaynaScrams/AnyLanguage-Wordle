@@ -1,16 +1,16 @@
 import { CONFIG } from './config'
 
 export const WORDS = [
-  'Li sayd',
+  'li sayd',
   'timiiw',
   'latonṉ',
-  'Faamii̱',
-  'Mazhii',
+  'faamii',
+  'mazhii',
   'enn sel',
   'raar',
-  'Oobor',
-  'Awihi̱',
-  'Koover',
+  'oobor',
+  'awihi',
+  'koover',
 ]
 
 if (CONFIG.normalization) {
